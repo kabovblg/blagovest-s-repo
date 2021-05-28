@@ -1,2 +1,0 @@
-# blagovest's repo
- dssolutions
